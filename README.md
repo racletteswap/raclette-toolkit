@@ -4,21 +4,21 @@ This repository is a monorepo manage with [yarn workspaces](https://classic.yarn
 
 ## Packages
 
-- [pancake-uikit](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit) : React components used to build the Pancake UI
-- [eslint-config-pancake](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake) : An ESLint config for pancake, with Typescript and Prettier support
+- [raclette-uikit](https://github.com/racletteswap/raclette-toolkit/tree/master/packages/pancake-uikit) : React components used to build the Pancake UI
+- [eslint-config-raclette](https://github.com/racletteswap/raclette-toolkit/tree/master/packages/eslint-config-raclette) : An ESLint config for raclette, with Typescript and Prettier support
 
 ## How to use
 
 Clone the repository 
 
 ```
-git clone git@github.com:pancakeswap/pancake-toolkit.git
+git clone git@github.com:racletteswap/raclette-toolkit.git
 ```
 
 Run yarn at the root of the workspace
 
 ```
-cd pancake-toolkit
+cd raclette-toolkit
 yarn
 ```
 
