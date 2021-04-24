@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2021-04-24)
+
+
+### Features
+
+* Renaming and repos to RacletteSwap ([344d044](https://github.com/racletteswap/raclette-toolkit/tree/master/packages/raclette-uikit/commit/344d044642678bcbbd293ecc9334a6ed3001414e))
+
+
+
+
+
 # [0.28.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.27.1...@pancakeswap-libs/uikit@0.28.0) (2021-04-23)
 
 
