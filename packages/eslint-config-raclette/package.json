@@ -1,14 +1,14 @@
 {
-  "name": "@pancakeswap-libs/eslint-config-pancake",
+  "name": "@racletteswap-libs/eslint-config-raclette",
   "version": "1.0.1",
-  "description": "Eslint config for PancakeSwap",
+  "description": "Eslint config for RacletteSwap",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake",
+  "repository": "https://github.com/racletteswap/raclette-toolkit/tree/master/packages/eslint-config-raclette",
   "license": "MIT",
-  "author": "RabbitDoge",
+  "author": "RabbitDogeFORK",
   "private": false,
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.7.0",
