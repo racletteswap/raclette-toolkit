@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/racletteswap/raclette-toolkit/tree/master/packages/raclette-uikit/compare/@c2t/uikit@0.1.3...@c2t/uikit@0.2.0) (2021-04-26)
+
+
+### Features
+
+* Update color failure ([29bb509](https://github.com/racletteswap/raclette-toolkit/tree/master/packages/raclette-uikit/commit/29bb509f3c98e4b6f3040bf4dffa1ad8368b2831))
+
+
+
+
+
 ## [0.1.3](https://github.com/racletteswap/raclette-toolkit/tree/master/packages/raclette-uikit/compare/@c2t/uikit@0.1.2...@c2t/uikit@0.1.3) (2021-04-26)
 
 **Note:** Version bump only for package @c2t/uikit
