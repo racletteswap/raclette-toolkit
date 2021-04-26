@@ -11,6 +11,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [0.2.1](https://github.com/racletteswap/raclette-toolkit/tree/master/packages/eslint-config-raclette/compare/@c2t/eslint-config-raclette@0.2.0...@c2t/eslint-config-raclette@0.2.1) (2021-04-26)
+
+**Note:** Version bump only for package @c2t/eslint-config-raclette
+
+
+
+
+
 # 0.2.0 (2021-04-26)
 
 
