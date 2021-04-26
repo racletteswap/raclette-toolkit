@@ -1,6 +1,6 @@
 {
   "name": "@c2t/eslint-config-raclette",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Eslint config for RacletteSwap",
   "main": "lib/index.js",
   "files": [
@@ -26,5 +26,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "5da31c080b773605683987a7d3fab3d890dcada3"
 }
