@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.1.0 (2021-04-26)
+
+
+### Features
+
+* Changed name in eslintrc and uikit version ([42c7bd0](https://github.com/racletteswap/raclette-toolkit/tree/master/packages/raclette-uikit/commit/42c7bd0c8cc8b551b2f0fe55e647f6fd8d7654e1))
+* Renaming and repos to RacletteSwap ([344d044](https://github.com/racletteswap/raclette-toolkit/tree/master/packages/raclette-uikit/commit/344d044642678bcbbd293ecc9334a6ed3001414e))
+
+
+
+
+
 # 0.2.0 (2021-04-26)
 
 
