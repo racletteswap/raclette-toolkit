@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.3](https://github.com/racletteswap/raclette-toolkit/tree/master/packages/eslint-config-raclette/compare/@c2t/eslint-config-raclette@0.2.2...@c2t/eslint-config-raclette@0.2.3) (2021-04-26)
+
+**Note:** Version bump only for package @c2t/eslint-config-raclette
+
+
+
+
+
 ## [0.2.2](https://github.com/racletteswap/raclette-toolkit/tree/master/packages/eslint-config-raclette/compare/@c2t/eslint-config-raclette@0.2.1...@c2t/eslint-config-raclette@0.2.2) (2021-04-26)
 
 **Note:** Version bump only for package @c2t/eslint-config-raclette

@@ -1,6 +1,6 @@
 {
   "name": "@c2t/uikit",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Set of UI components for raclette projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -52,5 +52,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "5da31c080b773605683987a7d3fab3d890dcada3"
+  "gitHead": "1bf0b99ca4e117e67ada3178a37ea875e1de878d"
 }
