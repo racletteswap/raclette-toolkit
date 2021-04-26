@@ -19,6 +19,22 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+# 0.2.0 (2021-04-26)
+
+
+### Bug Fixes
+
+* Eslint scope in package.json ([e0ba7bd](https://github.com/racletteswap/raclette-toolkit/tree/master/packages/eslint-config-raclette/commit/e0ba7bdcd03d7f4a914bf663f16255cd6052e1bd))
+
+
+### Features
+
+* Renaming and repos to RacletteSwap ([344d044](https://github.com/racletteswap/raclette-toolkit/tree/master/packages/eslint-config-raclette/commit/344d044642678bcbbd293ecc9334a6ed3001414e))
+
+
+
+
+
 # 1.1.0 (2021-04-24)
 
 
